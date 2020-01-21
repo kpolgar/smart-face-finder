@@ -5,6 +5,8 @@ Smart Face Finder is a full stack web app that uses the Clarifai API to find a f
 
 ![picture of the app](https://github.com/kpolgar/smart-face-finder/blob/master/smart-face-finder.png)
 
+<a href="https://github.com/kpolgar/smart-brain-api">Server Repo</a>
+
 ## Technologies Used
 ### Front-End
 * HTML5
