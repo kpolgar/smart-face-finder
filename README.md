@@ -1,5 +1,5 @@
 ## Smart Face Finder
-Smart Face Finder is a full stack web app that uses the Clarifai API find a face on a photo. This app was build with React.js on the front-end and it leverages Node.js on back-end with Express.js. It uses a PostgreSQL database to keep track of users and how many entries they have made.
+Smart Face Finder is a full stack web app that uses the Clarifai API to find a face on a photo. This app was build with React.js on the front-end and it leverages Node.js on back-end with Express.js. It uses a PostgreSQL database to keep track of users and how many entries they have made.
 
 <a href="https://smart-face-finder.herokuapp.com/">Check it out on Heroku</a>
 
